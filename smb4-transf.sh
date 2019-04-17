@@ -91,7 +91,7 @@ mail=$(echo $values | cut -d ':' -f3)
 ###OF COURSE YOU MUST ADD THE NEW VARIABLES
 
 
-echo samba-tool user create $name $prefix$password --given-name=$name --mail-address=$mail
+samba-tool user create $name $prefix$password --given-name=$name --mail-address=$mail
 
 
 ###
