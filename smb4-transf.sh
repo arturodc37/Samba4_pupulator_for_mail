@@ -21,7 +21,7 @@ echo "**********************************************             CAUTION!!!: A F
 echo "**********************************************"
 
 echo "**********************************************"
-echo "**********************************************             AUTOR NOTES:"
+echo "**********************************************             AUTHOR NOTES:"
 echo "*                                            *             YOU ARE FREE TO MODIFY THIS SCRIPT AN ADD MORE DATA TO THE TRANSFER"
 echo "*    Credits:arturo.havana993@gmail.com      *             FORMAT. SEE THE COMMENTED ZONE IN THE SCRIPT."
 echo "*                                            *             GOOD LUCK!!"
